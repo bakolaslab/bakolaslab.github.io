@@ -1,7 +1,7 @@
 ---
 name: Vrushabh Zinage
 position: gradstudent
-avatar: vrushabh_pic.jpg
+avatar: vrushabh_zinage_new.jpg
 twitter: jrudoler
 joined: 2021
 ---
