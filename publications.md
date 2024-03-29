@@ -105,43 +105,136 @@ AIAA Journal of Guidance, Control, and Dynamics, and Moving Obstacles,” AIAA J
 
 ### 2019
 
-Bakolas, E., “On the Computation of Sparse Solutions to the Basic Controllability Problem for Discrete-Time Linear Systems,” Journal of Optimization Theory and Applications, vol. 183, no. 1, pp. 292-316, 2019.
-J. Selvakumar and E. Bakolas, “Feedback Strategies for a Reach-Avoid Game With a Single Evader and Multiple Pursuers,” IEEE Transactions on Cybernetics, vol. 51, no. 2, pp. 696-707, doi: 10.1109/TCYB.2019.2914869
-Bakolas, E. “Dynamic Output Feedback Control of the Liouville Equation for Discrete-Time SISO Linear Systems,” IEEE Transactions on Automatic Control, vol. 64, no. 10, pp. 4268-4275, 2019.
+_On the Computation of Sparse Solutions to the Basic Controllability Problem for Discrete-Time Linear Systems_<br>
+E. Bakolas<br>
+Journal of Optimization Theory and Applications, vol. 183, no. 1, pp. 292-316, 2019.
 
-Selvakumar, J. and Bakolas, E., “Robust Time-Optimal Guidance in a Partially Uncertain Time-Varying Flow-Field,” Journal of Optimization Theory and Applications, vol. 179, no. 1, pp. 240-264, 2018. Publisher’s VersionPDF iconjota_jseb_2018.pdf
-Bakolas, E. “Constrained Minimum Variance Control for Discrete-Time Stochastic Linear Systems,” Systems & Control Letters, vol. 113, no. 3, pp. 109-116, 2018. Publisher’s VersionPDF iconmvc_scl_fvrev_8.pdf
-Bakolas, E. “Finite-Horizon Covariance Control for Discrete-Time Stochastic Linear Systems Subject to Input Constraints,” Automatica, vol. 91, no. 5, pp. 61-68, 2018. Publisher’s VersionPDF iconbakauto2018_fv2.pdf
-E. Bakolas, “Distributed Partitioning Algorithms for Locational Optimization of Multi-Agent Networks in SE(2),” IEEE Transactions on Automatic Control, vol. 63, no. 1, pp. 101-116, 2018. Publisher’s VersionPDF iconieee_tac17_eb.pdf
+_Feedback Strategies for a Reach-Avoid Game With a Single Evader and Multiple Pursuers_<br>
+J. Selvakumar and E. Bakolas<br>
+IEEE Transactions on Cybernetics, vol. 51, no. 2, pp. 696-707, doi: 10.1109/TCYB.2019.2914869
 
-E. Bakolas, “On the finite time capture of a fast moving target,” Optimal Control, Applications and Methods, vol. 38, no. 5, pp. 778-794, 2017.PDF iconjocam_2016_eb.pdf
-E. Bakolas, “Distributed Partitioning Algorithms for Multi-Agent Networks with Quadratic Proximity Metrics and Sensing Constraints,” Systems & Control Letters, vol. 91, no. 5, pp. 36-42, 2016. Publisher’s VersionPDF iconbakolas_scl2016.pdf
-E. Bakolas and Marchidan, A., “Time-Optimal Control of a self-propelled particle in a spatiotemporal flow field,” International Journal of Control, vol. 89, no. 3, pp. 623-634, 2016. Publisher’s VersionPDF iconbakmar_ijc_2015.pdf
-A. Marchidan and Bakolas, E., “Numerical Techniques for Minimum-Time Routing on a Sphere with Realistic Winds,” Journal of Guidance, Control, and Dynamics, vol. 39, no. 1, pp. 188-193, 2016.PDF iconjgcd_2016_ameb.pdf
-A. L’Afflito, Haddad, W. M., and Bakolas, E., “Partial-State Stabilization and Optimal Feedback Control,” International Journal of Robust and Nonlinear Control, vol. 26, pp. 1026-1050, 2016. Publisher’s Version
+_Dynamic Output Feedback Control of the Liouville Equation for Discrete-Time SISO Linear Systems_<br>
+E. Bakolas<br>
+IEEE Transactions on Automatic Control, vol. 64, no. 10, pp. 4268-4275, 2019.
 
-E. Bakolas, “Partitioning Algorithms for Multi-Agent Systems Based on Finite Time Proximity Metrics,” Automatica, vol. 55, no. 5, pp. 176-182, 2015. Publisher’s VersionPDF iconbakauto15_final.pdf
-E. Bakolas, “Feedback Guidance in Uncertain Spatiotemporal Wind Using a Vector Backstepping Algorithm,” Journal of Guidance, Control, and Dynamics, vol. 38, no. 4, pp. 631-642, 2015. Publisher’s VersionPDF icongjcdhc_v18_fedits.pdf
+### 2018
 
-E. Bakolas, “Decentralized Spatial Partitioning Algorithms for Multi-Vehicle Systems Based on the Minimum Control Effort Metric,” Systems & Control Letters, vol. 73, pp. 81-87, 2014. Publisher’s VersionPDF iconbakolasscl_2014.pdf
-E. Bakolas, “Decentralized Spatial Partitioning for Multi-Vehicle Systems in Spatiotemporal Flow-Field,” Automatica, vol. 50, no. 9, pp. 2389–2396, 2014. Publisher’s VersionPDF iconbak_autolos_final4.pdf
-E. Bakolas, “Optimal Guidance of the Isotropic Rocket in the Presence of Wind,” Journal of Optimization Theory and Applications, vol. 162, no. 3, pp. 954-974, 2014.PDF iconbakolasjota2014.pdf
-J. H. Saleh, Haga, R. A., Favarò, F. M., and Bakolas, E., “Texas City Refinery Accident: Case Study in Breakdown of Defense-In-Depth and Violation of the Safety-Diagnosability Principle in Design,” Engineering Failure Analysis, vol. 36, no. 1, pp. 121-133, 2014.
+_Robust Time-Optimal Guidance in a Partially Uncertain Time-Varying Flow-Field_<br>
+J. Selvakumar and E. Bakolas<br>
+Journal of Optimization Theory and Applications, vol. 179, no. 1, pp. 240-264, 2018. Publisher’s VersionPDF iconjota_jseb_2018.pdf
 
-R. Anderson, Bakolas, E., Milutinovic, D., and Tsiotras, P., “Optimal Feedback Guidance of a Small Aerial Vehicle in a Stochastic Wind,” Journal of Guidance, Control, and Dynamics, vol. 36, no. 4, pp. 975-985, 2013.PDF iconjgcd_364_2013.pdf
-E. Bakolas, “Optimal Partitioning for Multi-Vehicle Systems Using Quadratic Performance Criteria,” Automatica, vol. 49, no. 11, pp. 3377-3383, 2013.PDF iconautomatica_inpress_2013.pdf
-E. Bakolas and Tsiotras, P., “Optimal Partitioning for Spatiotemporal Coverage in a Drift Field,” Automatica, vol. 49, no. 7, pp. 2064-2073, 2013.PDF iconautomatica_497_2013.pdf
-E. Bakolas and Tsiotras, P., “Optimal Synthesis of the Zermelo-Markov-Dubins Problem in a Constant Drift Field,” Journal of Optimization Theory and Applications, vol. 156, pp. 469-492, 2013.PDF iconjota_1562_2013.pdf
+_Constrained Minimum Variance Control for Discrete-Time Stochastic Linear Systems_<br>
+E. Bakolas<br>
+Systems & Control Letters, vol. 113, no. 3, pp. 109-116, 2018. Publisher’s VersionPDF iconmvc_scl_fvrev_8.pdf
 
-E. Bakolas and Tsiotras, P., “Feedback navigation in an uncertain flow-field and connections with pursuit strategies,” Journal of Guidance, Control, and Dynamics, vol. 35, pp. 1268-1279, 2012.PDF icon jgcd_354_2012.pdf
-P. Tsiotras, Jung, D., and Bakolas, E., “Multiresolution hierarchical path-planning using wavelet decompositions,” Journal of Intelligent & Robotic Systems, vol. 66, pp. 505-522, 2012.
-E. Bakolas and Tsiotras, P., “Relay Pursuit of a Maneuvering Target Using Dynamic Voronoi Diagrams,” Automatica, vol. 48, pp. 2213-2220, 2012.PDF icon auto_489_2012.pdf
+_Finite-Horizon Covariance Control for Discrete-Time Stochastic Linear Systems Subject to Input Constraints_<br>
+E. Bakolas<br>
+Automatica, vol. 91, no. 5, pp. 61-68, 2018. Publisher’s VersionPDF iconbakauto2018_fv2.pdf
 
-E. Bakolas and Tsiotras, P., “Optimal synthesis of the asymmetric sinistral/dextral Markov-Dubins problem,” Journal of Optimization Theory and Applications, vol. 150, pp. 233-250, 2011.
-E. Bakolas and Saleh, J. H., “Augmenting defense-in-depth with the concepts of observability and diagnosability from Control Theory and Discrete Event Systems,” Reliability Engineering & System Safety, vol. 96, pp. 184-193, 2011.
+_Distributed Partitioning Algorithms for Locational Optimization of Multi-Agent Networks in SE(2)_<br>
+E. Bakolas<br>
+IEEE Transactions on Automatic Control, vol. 63, no. 1, pp. 101-116, 2018. Publisher’s VersionPDF iconieee_tac17_eb.pdf
 
-J. H. Saleh, Marais, K. B., Bakolas, E., and Cowlagi, R. V., “Highlights from the literature on accident causation and system safety: Review of major ideas, recent contributions, and challenges,” Reliability Engineering & System Safety, vol. 95, pp. 1105-1116, 2010.
-E. Bakolas and Tsiotras, P., “The Zermelo-Voronoi diagram: a dynamic partition problem,” Automatica, vol. 46, pp. 2059-2067, 2010.
+### 2016
+
+_On the finite time capture of a fast moving target_<br>
+E. Bakolas<br>
+Optimal Control, Applications and Methods, vol. 38, no. 5, pp. 778-794, 2017.PDF iconjocam_2016_eb.pdf
+
+_Distributed Partitioning Algorithms for Multi-Agent Networks with Quadratic Proximity Metrics and Sensing Constraints_<br>
+E. Bakolas<br>
+Systems & Control Letters, vol. 91, no. 5, pp. 36-42, 2016. Publisher’s VersionPDF iconbakolas_scl2016.pdf
+
+_Time-Optimal Control of a self-propelled particle in a spatiotemporal flow field_<br>
+E. Bakolas and A. Marchidan<br>
+International Journal of Control, vol. 89, no. 3, pp. 623-634, 2016. Publisher’s VersionPDF iconbakmar_ijc_2015.pdf
+
+_Numerical Techniques for Minimum-Time Routing on a Sphere with Realistic Winds_<br>
+A. Marchidan and E. Bakolas, “,” Journal of Guidance, Control, and Dynamics, vol. 39, no. 1, pp. 188-193, 2016.PDF iconjgcd_2016_ameb.pdf
+
+_Partial-State Stabilization and Optimal Feedback Control_<br>
+A. L’Afflito, W. M. Haddad, and E. Bakolas<br>
+International Journal of Robust and Nonlinear Control, vol. 26, pp. 1026-1050, 2016. Publisher’s Version
+
+### 2015
+
+_Partitioning Algorithms for Multi-Agent Systems Based on Finite Time Proximity Metrics_<br>
+E. Bakolas<br>
+Automatica, vol. 55, no. 5, pp. 176-182, 2015. Publisher’s VersionPDF iconbakauto15_final.pdf
+
+_Feedback Guidance in Uncertain Spatiotemporal Wind Using a Vector Backstepping Algorithm_<br>
+E. Bakolas<br>
+Journal of Guidance, Control, and Dynamics, vol. 38, no. 4, pp. 631-642, 2015. Publisher’s VersionPDF icongjcdhc_v18_fedits.pdf
+
+### 2014
+
+_Decentralized Spatial Partitioning Algorithms for Multi-Vehicle Systems Based on the Minimum Control Effort Metric_<br>
+E. Bakolas<br>
+Systems & Control Letters, vol. 73, pp. 81-87, 2014. Publisher’s VersionPDF iconbakolasscl_2014.pdf
+
+_Decentralized Spatial Partitioning for Multi-Vehicle Systems in Spatiotemporal Flow-Field_<br>
+E. Bakolas<br>
+Automatica, vol. 50, no. 9, pp. 2389–2396, 2014. Publisher’s VersionPDF iconbak_autolos_final4.pdf
+
+_Optimal Guidance of the Isotropic Rocket in the Presence of Wind_<br>
+E. Bakolas<br>
+Journal of Optimization Theory and Applications, vol. 162, no. 3, pp. 954-974, 2014.PDF iconbakolasjota2014.pdf
+
+_Texas City Refinery Accident: Case Study in Breakdown of Defense-In-Depth and Violation of the Safety-Diagnosability Principle in Design_<br>
+J. H. Saleh, R. A. Haga, F. M. Favarò, and E. Bakolas<br>
+Engineering Failure Analysis, vol. 36, no. 1, pp. 121-133, 2014.
+
+### 2013
+
+_Optimal Feedback Guidance of a Small Aerial Vehicle in a Stochastic Wind_<br>
+R. Anderson, E. Bakolas, D. Milutinovic, and P. Tsiotras
+Journal of Guidance, Control, and Dynamics, vol. 36, no. 4, pp. 975-985, 2013.PDF iconjgcd_364_2013.pdf
+
+_Optimal Partitioning for Multi-Vehicle Systems Using Quadratic Performance Criteria_<br>
+E. Bakolas<br>
+Automatica, vol. 49, no. 11, pp. 3377-3383, 2013.PDF iconautomatica_inpress_2013.pdf
+
+_Optimal Partitioning for Spatiotemporal Coverage in a Drift Field_<br>
+E. Bakolas and P. Tsiotras<br>
+Automatica, vol. 49, no. 7, pp. 2064-2073, 2013.PDF iconautomatica_497_2013.pdf
+
+_Optimal Synthesis of the Zermelo-Markov-Dubins Problem in a Constant Drift Field_<br>
+E. Bakolas and P. Tsiotras<br>
+Journal of Optimization Theory and Applications, vol. 156, pp. 469-492, 2013.PDF iconjota_1562_2013.pdf
+
+### 2012
+
+_Feedback navigation in an uncertain flow-field and connections with pursuit strategies_<br>
+E. Bakolas and P. Tsiotras<br>
+Journal of Guidance, Control, and Dynamics, vol. 35, pp. 1268-1279, 2012.PDF icon jgcd_354_2012.pdf
+
+_Multiresolution hierarchical path-planning using wavelet decompositions_<br>
+P. Tsiotras, D. Jung, and E. Bakolas<br>
+Journal of Intelligent & Robotic Systems, vol. 66, pp. 505-522, 2012.
+
+_Relay Pursuit of a Maneuvering Target Using Dynamic Voronoi Diagrams_<br>
+E. Bakolas and P. Tsiotras<br>
+Automatica, vol. 48, pp. 2213-2220, 2012.PDF icon auto_489_2012.pdf
+
+### 2011
+
+_Optimal synthesis of the asymmetric sinistral/dextral Markov-Dubins problem_<br>
+E. Bakolas and P. Tsiotras<br>
+Journal of Optimization Theory and Applications, vol. 150, pp. 233-250, 2011.
+
+_Augmenting defense-in-depth with the concepts of observability and diagnosability from Control Theory and Discrete Event Systems_<br>
+E. Bakolas and J. H. Saleh<br>
+Reliability Engineering & System Safety, vol. 96, pp. 184-193, 2011.
+
+### 2010
+
+_Highlights from the literature on accident causation and system safety: Review of major ideas, recent contributions, and challenges_<br>
+J. H. Saleh, K. B. Marais, E. Bakolas, and R. V. Cowlagi<br>
+Reliability Engineering & System Safety, vol. 95, pp. 1105-1116, 2010.
+
+_The Zermelo-Voronoi diagram: a dynamic partition problem_<br>
+E. Bakolas and P. Tsiotras<br>
+Automatica, vol. 46, pp. 2059-2067, 2010.
 
 <hr>
 
