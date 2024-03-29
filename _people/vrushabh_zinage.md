@@ -15,7 +15,7 @@ joined: 2021
 
 
 ## About Me
-I am a PhD student at UT Austin in Aerospace Engineering advised by Prof. Efstathios Bakolas and Prof. Takashi Tanaka. I am broadly interested in the intersection of motion planning, trajectory optimization, control theory, data-driven control, and robotics. My current research includes learning based control, operator theoretic control of nonlinear systems, information-theoretic motion planning, and safety-critical control theory using Control Barrier Functions.
+[I](https://www.linkedin.com/in/vrushabh-zinage/) am a PhD student at UT Austin in Aerospace Engineering advised by Prof. Efstathios Bakolas and Prof. Takashi Tanaka. I am broadly interested in the intersection of motion planning, trajectory optimization, control theory, data-driven control, and robotics. My current research includes learning based control, operator theoretic control of nonlinear systems, information-theoretic motion planning, and safety-critical control theory using Control Barrier Functions.
 
 I have previously interned at GAMMA Lab. of the University of Maryland under the advise of Prof. Dinesh Manocha on online motion planning and trajectory optimization algorithms. I have also interned at Airbus and Honeywell Aerospace, India.
 
