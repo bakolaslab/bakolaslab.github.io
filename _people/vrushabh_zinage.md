@@ -2,11 +2,17 @@
 name: Vrushabh Zinage
 position: gradstudent
 avatar: vrushabh_zinage_new.jpg
-twitter: jrudoler
+twitter: Vrushab50081009
 joined: 2021
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+
+<i class="fa fa-newspaper-o"></i> <a href="https://drive.google.com/file/d/1-08Pp6lsNAV6lk-WVpyD-QNfYYHnDDJY/view?usp=sharing" target="_blank">Website</a>
+
+<i class="fa fa-newspaper-o"></i> <a href="https://vrushabh27.github.io/vrushabh_zinage/" target="_blank">CV</a>
+
+
 
 ## About Me
 I am a PhD student at UT Austin in Aerospace Engineering advised by Prof. Efstathios Bakolas and Prof. Takashi Tanaka. I am broadly interested in the intersection of motion planning, trajectory optimization, control theory, data-driven control, and robotics. My current research includes learning based control, operator theoretic control of nonlinear systems, information-theoretic motion planning, and safety-critical control theory using Control Barrier Functions.
