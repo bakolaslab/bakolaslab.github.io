@@ -7,7 +7,7 @@ Bakolas' [google scholar citations profile](https://scholar.google.com/citations
 
 <hr>
 
-### Journal Articles
+## Journal Articles
 
 ### 2024
 
@@ -145,7 +145,7 @@ E. Bakolas and Tsiotras, P., “The Zermelo-Voronoi diagram: a dynamic partition
 
 <hr>
 
-### Conference Proceedings and Papers
+## Conference Proceedings and Papers
 
 ### 2024
 
