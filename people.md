@@ -57,8 +57,8 @@ permalink: /people/
 <br>
 
 | Who are they | When were they here | Where they went |
-| :------------- |:-------------| :-----------|
-| Steven Patrick | MS (2023) | Aptronix |
+| :------------- |:-------| :-------------|
+| Steven Patrick | MS (2023) | Apptronik |
 | Alex Tsolovikos | PhD (2023) | Applied Intuition |
 | Drew McNeely | MS (2023) | |
 | Alaa Abdulghafoor | PhD (2022) | |
