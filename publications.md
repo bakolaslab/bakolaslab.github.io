@@ -41,7 +41,7 @@ Journal of Intelligent and Robotic Systems, 107, 5, 2023, https://doi.org/10.100
 
 _A local reactive steering law for 2D collision avoidance with curvature constraints and constant speed_<br>
 A. Marchidan and E. Bakolas<br>
-Robotics and Autonomous Systems, Volume 155, 2022, 104156 (19 pages), doi:10.1016/j.robot.2022.104156
+Robotics and Autonomous Systems, Volume 155, 2022, 104156, doi:10.1016/j.robot.2022.104156
 
 _Hierarchical Task-Space Optimal Covariance Control with Chance Constraints_<br>
 J. Lee, E. Bakolas, L. Sentis<br>
@@ -81,15 +81,15 @@ _Estimation and Control of Fluid Flows Using Sparsity-Promoting Dynamic Mode Dec
 A. Tsolovikos, E. Bakolas, S. Suryanarayanan, and D. Goldstein<br>
 IEEE Control Systems Letters, vol. 5, no. 4, pp. 1145-1150, 2021. doi: 10.1109/LCSYS.2020.3015776
 
+_Safe nonlinear control design for input constrained polynomial systems using sum-of-squares programming_<br>
+D. Pylorof and E. Bakolas<br>
+International Journal of Control, vol. 94, no. 9, pp. 2603-261, 2021. DOI: 10.1080/00207179.2020.1726469
+
 ### 2020
 
 _Workspace Partitioning and Topology Discovery Algorithms for Heterogeneous Multi-Agent Networks_<br>
 E. Bakolas<br>
 IEEE Transactions on Control of Network Systems, 2020, vol. 8, no. 1, 354-366, 2021. DOI: 10.1109/TCNS.2020.3002984
-
-_Safe nonlinear control design for input constrained polynomial systems using sum-of-squares programming_<br>
-D. Pylorof and E. Bakolas<br>
-International Journal of Control, vol. 94, no. 9, pp. 2603-261, 2021. DOI: 10.1080/00207179.2020.1726469
 
 _Navigating over 3D environments while minimizing cumulative exposure to hazardous fields_<br>
 M. A. Demetriou and E. Bakolas<br>
@@ -121,40 +121,40 @@ IEEE Transactions on Automatic Control, vol. 64, no. 10, pp. 4268-4275, 2019.
 
 _Robust Time-Optimal Guidance in a Partially Uncertain Time-Varying Flow-Field_<br>
 J. Selvakumar and E. Bakolas<br>
-Journal of Optimization Theory and Applications, vol. 179, no. 1, pp. 240-264, 2018. Publisher’s VersionPDF iconjota_jseb_2018.pdf
+Journal of Optimization Theory and Applications, vol. 179, no. 1, pp. 240-264, 2018. https://doi.org/10.1007/s10957-018-1326-1
 
 _Constrained Minimum Variance Control for Discrete-Time Stochastic Linear Systems_<br>
 E. Bakolas<br>
-Systems & Control Letters, vol. 113, no. 3, pp. 109-116, 2018. Publisher’s VersionPDF iconmvc_scl_fvrev_8.pdf
+Systems & Control Letters, vol. 113, no. 3, pp. 109-116, 2018. https://doi.org/10.1016/j.sysconle.2018.02.001.
 
 _Finite-Horizon Covariance Control for Discrete-Time Stochastic Linear Systems Subject to Input Constraints_<br>
 E. Bakolas<br>
-Automatica, vol. 91, no. 5, pp. 61-68, 2018. Publisher’s VersionPDF iconbakauto2018_fv2.pdf
+Automatica, vol. 91, no. 5, pp. 61-68, 2018. https://doi.org/10.1016/j.automatica.2018.01.029.
 
 _Distributed Partitioning Algorithms for Locational Optimization of Multi-Agent Networks in SE(2)_<br>
 E. Bakolas<br>
-IEEE Transactions on Automatic Control, vol. 63, no. 1, pp. 101-116, 2018. Publisher’s VersionPDF iconieee_tac17_eb.pdf
+IEEE Transactions on Automatic Control, vol. 63, no. 1, pp. 101-116, 2018. doi: 10.1109/TAC.2017.2707602.
 
 ### 2016
 
 _On the finite time capture of a fast moving target_<br>
 E. Bakolas<br>
-Optimal Control, Applications and Methods, vol. 38, no. 5, pp. 778-794, 2017.PDF iconjocam_2016_eb.pdf
+Optimal Control, Applications and Methods, vol. 38, no. 5, pp. 778-794, 2017. https://doi.org/10.1002/oca.2289.
 
 _Distributed Partitioning Algorithms for Multi-Agent Networks with Quadratic Proximity Metrics and Sensing Constraints_<br>
 E. Bakolas<br>
-Systems & Control Letters, vol. 91, no. 5, pp. 36-42, 2016. Publisher’s VersionPDF iconbakolas_scl2016.pdf
+Systems & Control Letters, vol. 91, no. 5, pp. 36-42, 2016. https://doi.org/10.1016/j.sysconle.2016.02.005.
 
 _Time-Optimal Control of a self-propelled particle in a spatiotemporal flow field_<br>
 E. Bakolas and A. Marchidan<br>
-International Journal of Control, vol. 89, no. 3, pp. 623-634, 2016. Publisher’s VersionPDF iconbakmar_ijc_2015.pdf
+International Journal of Control, vol. 89, no. 3, pp. 623-634, 2016. https://doi.org/10.1080/00207179.2015.1088965.
 
 _Numerical Techniques for Minimum-Time Routing on a Sphere with Realistic Winds_<br>
-A. Marchidan and E. Bakolas, “,” Journal of Guidance, Control, and Dynamics, vol. 39, no. 1, pp. 188-193, 2016.PDF iconjgcd_2016_ameb.pdf
+A. Marchidan and E. Bakolas, “,” Journal of Guidance, Control, and Dynamics, vol. 39, no. 1, pp. 188-193, 2016. https://doi.org/10.2514/1.G001389.
 
 _Partial-State Stabilization and Optimal Feedback Control_<br>
 A. L’Afflito, W. M. Haddad, and E. Bakolas<br>
-International Journal of Robust and Nonlinear Control, vol. 26, pp. 1026-1050, 2016. Publisher’s Version
+International Journal of Robust and Nonlinear Control, vol. 26, pp. 1026-1050, 2016. https://doi.org/10.1002/rnc.3349.
 
 ### 2015
 
@@ -187,7 +187,7 @@ Engineering Failure Analysis, vol. 36, no. 1, pp. 121-133, 2014.
 ### 2013
 
 _Optimal Feedback Guidance of a Small Aerial Vehicle in a Stochastic Wind_<br>
-R. Anderson, E. Bakolas, D. Milutinovic, and P. Tsiotras
+R. Anderson, E. Bakolas, D. Milutinovic, and P. Tsiotras<br>
 Journal of Guidance, Control, and Dynamics, vol. 36, no. 4, pp. 975-985, 2013.PDF iconjgcd_364_2013.pdf
 
 _Optimal Partitioning for Multi-Vehicle Systems Using Quadratic Performance Criteria_<br>
