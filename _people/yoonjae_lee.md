@@ -1,12 +1,14 @@
 ---
 name: Yoonjae Lee
 position: gradstudent
-avatar: 
+avatar: yoonjae_lee.JPG
 twitter: 
 joined: 2020
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+
+<i class="fa fa-newspaper-o"></i> <a href="https://jesse-yj-lee.github.io/yjlee.github.io/" target="_blank">Website</a>
 
 ## About Me
 
