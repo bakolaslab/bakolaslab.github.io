@@ -87,4 +87,8 @@ We have 4 categories: `scientists`, `students`, `discussion`, `blog` you can cho
 
 The changes will take approximately half a minute to render. You can see the new posts or changes on [bakolaslab.github.io](http://bakolaslab.github.io/)!
 
-Credit to [http://kordinglab.com/](http://kordinglab.com/) for the template.
+### Editing the homepage image
+
+To edit the homepage image, go to this [website](https://shiny.rcg.sfu.ca/u/rdmorin/scholargoggler/?_inputs_&cloud_type=%22Titles%22&firstname=%22Ryan%22&coolor=%22%22&font_family=%22Arial%22&bgcolour=%22white%22&ellipticity=1&affiliation=%22%22&lastname=%22Morin%22&minmaxfreq=%5B1%2C15%5D&button=2&id=%22https%3A%2F%2Fscholar.google.com%2Fcitations%3Fhl%3Den%26user%3DmnXfihQAAAAJ%22&keep_uppercase=%22DNA%2CPCR%22&zoomout=0.5&rd=%22ID%22&range=%5B2007%2C2024%5D&cloudshape=%22Show%22&rotation=%2245%20degrees%22&layout=%22Cloud%22&dropwords=%22using%2Cbased%2Cgroup%22&depluralize=%22%22&main=%22Word%20Cloud%22&shape=%22brain%22&words=%22Show%22&cloud_clicked_word=%22planning%3A2%22&fancycolour=%22Cross%22&colourscheme=%22Show%22&dillute=true&fiddle=%22Yes%22). **Be sure to change the link above to the new image you created!**
+
+*Credit to [kordinglab.github.io](https://github.com/KordingLab/KordingLab.github.io) for the template.*
