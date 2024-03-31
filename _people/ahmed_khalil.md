@@ -1,19 +1,18 @@
 ---
 name: Ahmed Khalil
 position: gradstudent
-avatar: 
-twitter: 
-joined: 2022
+avatar: ahmed_khalil.jpg
+twitter: itsahmedkhalil
+joined: 2023
 ---
 
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+
+<i class="fa fa-newspaper-o"></i> <a href="https://itsahmedkhalil.github.io/" target="_blank">Website</a>
 
 ## About Me
+I am a graduate student at the [University of Texas at Austin](https://www.utexas.edu/), fortunate to be advised by Dr. Efstathios Bakolas. My interests lie in multi-agent control and optimization.
 
-<!-- ## My interests
-Broadly interested in data, machine learning, and brains. I've done a lot of work with EEG and human memory in the past. Right now I'm excited about:
-* Methods for rigorous uncertainty quantification, especially in deep learning
-* Decoding brain activity using machine learning + applying to closed-loop algorithms
-* Transfer learning / domain adaptation
-* Open science initiatives, esp. tools for data standardization and sharing.  -->
+I obtained my B.S. in Mechanical Engineering from the [University of Wisconsin-Madison](https://engineering.wisc.edu/programs/degrees/mechanical-engineering-bs/), and completed a study abroad at [Zhejiang University](https://www.zju.edu.cn/english/) during the summer of 2019. 
 
+akhalil@utexas.edu
