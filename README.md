@@ -86,3 +86,5 @@ We have 4 categories: `scientists`, `students`, `discussion`, `blog` you can cho
 - **Clone the repository**, kind of the same as directly add post on Github. You just have to clone the repository. Then add new post file, commit and push to the repo.
 
 The changes will take approximately half a minute to render. You can see the new posts or changes on [bakolaslab.github.io](http://bakolaslab.github.io/)!
+
+Credit to [http://kordinglab.com/](http://kordinglab.com/) for the template.
