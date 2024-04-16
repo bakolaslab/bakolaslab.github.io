@@ -11,7 +11,7 @@ permalink: /research/
 
 <hr>
 
-#### Task Allocation and Pursuit-Evasion Games for Multi-Agent Systems
+#### Task Assignment and Pursuit-Evasion Games for Multi-Agent Systems
 
 <hr>
 
